@@ -14,8 +14,8 @@ Numpy , Pandas , Scipy
 SQLite
 
 # Requirements
-'python 3.6
+```python 3.6
 
 pip3
 
-virtualenv'
+virtualenv```
