@@ -27,6 +27,7 @@ SQLite
 ```python manage.py migrate```
 
 5) Create a super user
+   
    ```python manage.py createsuperuser```
 
 If you are using git bash then type 
