@@ -27,14 +27,12 @@ SQLite
 ```python manage.py migrate```
 
 6)Create a super user
-
 python manage.py createsuperuser
 
 If you are using git bash then type 
 ```winpty python manage.py createsuperuser```
 
 7)Run server
-
 ```python manage.py runserver```
 
 8) The application will work now on http://127.0.0.1:8000
