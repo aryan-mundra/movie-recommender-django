@@ -4,13 +4,13 @@ A Web Base user-item Movie Recommendation Engine using Collaborative Filtering B
 
 # Technologies Used
 
-Web Technologies
+Web Technologies -
 Html , Css , JavaScript , Bootstrap , Django
 
-Machine Learning Library In Python3
+Machine Learning Libraries -
 Numpy , Pandas , Scipy
 
-Database
+Database -
 SQLite
 
 # Steps to run the code
