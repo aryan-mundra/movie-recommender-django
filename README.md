@@ -6,6 +6,10 @@ A Web Base user-item Movie Recommendation Engine using Collaborative Filtering B
 Recommendations -
 ![Capture](https://github.com/aryan-mundra/movie-recommender-django/assets/144268029/ef97d6e0-2b44-4f9d-947d-90b3dac73783)
 
+Product page-
+![Capture](https://github.com/aryan-mundra/movie-recommender-django/assets/144268029/a9a6a159-2513-4509-ab79-e7b31f5f67cb)
+
+
 
 # Technologies Used
 
