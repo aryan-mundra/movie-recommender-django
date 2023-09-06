@@ -14,25 +14,25 @@ Database
 SQLite
 
 # Steps to run the code
-1)Create and virtual environment
+1) Create and virtual environment
    ```python -m venv env```
 
-2)Activate the virtual environment 
+2) Activate the virtual environment 
 ```source env/Scripts/activate```
 
-3)Install required packages to run the project 
+3) Install required packages to run the project 
 ```pip install -r requirements.txt ```
 
-4)Create database tables
+4) Create database tables
 ```python manage.py migrate```
 
-5)Create a super user
+5) Create a super user
 python manage.py createsuperuser
 
 If you are using git bash then type 
 ```winpty python manage.py createsuperuser```
 
-6)Run server
+6) Run server
 ```python manage.py runserver```
 
 7) The application will work now on http://127.0.0.1:8000
