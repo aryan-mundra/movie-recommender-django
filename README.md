@@ -4,18 +4,38 @@ A Web Base user-item Movie Recommendation Engine using Collaborative Filtering B
 
 # Technologies Used
 
-# Web Technologies
+Web Technologies
 Html , Css , JavaScript , Bootstrap , Django
 
-# Machine Learning Library In Python3
+Machine Learning Library In Python3
 Numpy , Pandas , Scipy
 
-# Database
+Database
 SQLite
 
-# Requirements
-```python 3.6
+# Steps to run the code
+1) Create and virtual environment
+   ```python -m venv env```
 
-pip3
+2) Activate the virtual environment 
+```source env/Scripts/activate```
 
-virtualenv```
+3)Install required packages to run the project 
+```pip install -r requirements.txt ```
+
+4)Create database tables
+```python manage.py migrate```
+
+6)Create a super user
+
+python manage.py createsuperuser
+
+If you are using git bash then type 
+```winpty python manage.py createsuperuser```
+
+7)Run server
+
+```python manage.py runserver```
+
+8) The application will work now on http://127.0.0.1:8000
+
