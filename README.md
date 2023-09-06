@@ -1,6 +1,8 @@
 # Movie-recommender-django
 
 A Web Base user-item Movie Recommendation Engine using Collaborative Filtering By matrix factorizations algorithm and The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.
+![Capture](https://github.com/aryan-mundra/movie-recommender-django/assets/144268029/657d0226-6014-4f6d-9abd-d72cff65a211)
+
 
 # Technologies Used
 
